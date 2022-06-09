@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36bab1d9-7189-4c56-b5ef-2b114f227bb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/BubbleSortGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/GenericFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/SpartanComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/com/sparta/mg/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/generic/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/generic/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test - Copy (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test - Copy (3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test - Copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACdslZotF65ZJuH8mQ2vPVqXvP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/temp/java project/javabasics/SpartaSimulation",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.Helper" />
+      <recent name="org.SortingTypes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortManager">
+    <configuration name="SortManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SortMgr.SortManager" />
+      <module name="SortManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SortMgr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SortingTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.sorter" />
+      <option name="MAIN_CLASS_NAME" value="org.SortingTypes.BubbleSortAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sortertest" />
+      <option name="MAIN_CLASS_NAME" value="sortertest.BubbleSortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelperTest.getSortOption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.Helper" />
+      <option name="MAIN_CLASS_NAME" value="org.Helper.HelperTest" />
+      <option name="METHOD_NAME" value="getSortOption" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SortingTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.SortingTypes" />
+      <option name="MAIN_CLASS_NAME" value="org.SortingTypes.MergeSortAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortManager" />
+        <item itemvalue="JUnit.HelperTest.getSortOption" />
+        <item itemvalue="JUnit.MergeSortAlgorithmTest" />
+        <item itemvalue="JUnit.BubbleSortAlgorithmTest" />
+        <item itemvalue="JUnit.BubbleSortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36bab1d9-7189-4c56-b5ef-2b114f227bb1" name="Changes" comment="" />
+      <created>1654517715999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654517715999</updated>
+    </task>
+    <servers />
+  </component>
+</project>
