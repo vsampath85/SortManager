@@ -1,8 +1,9 @@
 package org.SortingTypes;
 
-public class BubbleSortAlgorithm {
+public class BubbleSortAlgorithm implements Sorter{
 
-    public static int[] bubbleSort(int[] bubblenumbers) {
+    @Override
+    public  int[] sortAsc(int[] bubblenumbers) {
         int n = bubblenumbers.length;
         int temp = 0;
         for (int i = 0; i < n; i++) {
@@ -15,4 +16,5 @@ public class BubbleSortAlgorithm {
             }
         } return bubblenumbers;
     }
+
 }

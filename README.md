@@ -14,8 +14,17 @@ The sort manager as a minimum should include a Bubble sort, Binary Tree sort and
 
 You are required to test both the functionality of the program and the performance of the algorithms (speed tests)
 
-Suggested Project Phases
-Phase 1
-Write a program which will take an array of ints and sort it using a bubble sort algorithm.
-Add the option to use a merge sort algorithm instead.
-Include JUnit tests for this and all subsequent phases (and all subsequent projects for the rest of time).
+
+
+How to use the Program:
+
+-Navigate to SortManager/scr/main/java/org/org.start.
+-Run the SortManagerMain.java file.
+-The program should ask you to Please enter your option 1-3, for multi-sort please use this format (e.g. 1,2) and 0 to exit program.
+-Then program should ask to enter the size of the array, value should be greater than 0.
+-The program will run the sorting and deliver your report for that session to the screen.
+        Unsorted Array
+        Sorted Array
+        Time Taken to complete the sorting.
+        Result comparison between different sorting method.
+At this point, the program will ask if you would like to run a new sorting method or not. Please enter "Y" for yes, or "N" for no, which terminates the program (case insensitive).

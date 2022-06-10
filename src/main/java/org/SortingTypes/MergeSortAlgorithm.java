@@ -1,32 +1,34 @@
 package org.SortingTypes;
 
-public class MergeSortAlgorithm {
+public class MergeSortAlgorithm implements Sorter{
 
-    public static int[] mergeSort(int[] a,int n) {
-
-        if (n < 2) {
-            return a;
-        }
-        int mid = n / 2;
-        int[] l = new int[mid];
-        int[] r = new int[n - mid];
-
-        for (int i = 0; i < mid; i++) {
-            l[i] = a[i];
-        }
-        for (int i = mid; i < n; i++) {
-            r[i - mid] = a[i];
-        }
-        mergeSort(l, mid);
-        mergeSort(r, n - mid);
-
-        merge(a, l, r, mid, n - mid);
-
-        return a;
+    public  int[] sortAsc(int[] unsortedArray) {
+        return mergeSort(unsortedArray, unsortedArray.length);
     }
 
-    public static void merge(
-            int[] a, int[] l, int[] r, int left, int right) {
+    public static int[] mergeSort(int[] arrayelement,int arraysize) {
+        if (arraysize < 2) {
+            return arrayelement;
+        }
+        int mid = arraysize / 2;
+        int[] l = new int[mid];
+        int[] r = new int[arraysize - mid];
+
+        for (int i = 0; i < mid; i++) {
+            l[i] = arrayelement[i];
+        }
+        for (int i = mid; i < arraysize; i++) {
+            r[i - mid] = arrayelement[i];
+        }
+        mergeSort(l, mid);
+        mergeSort(r, arraysize - mid);
+
+        merge(arrayelement, l, r, mid, arraysize - mid);
+
+        return arrayelement;
+    }
+
+    public static void merge(int[] a, int[] l, int[] r, int left, int right) {
 
         int i = 0, j = 0, k = 0;
         while (i < left && j < right) {
