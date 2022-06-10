@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36bab1d9-7189-4c56-b5ef-2b114f227bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/BubbleSortGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/GenericFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/Simulation/SpartanComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/com/sparta/mg/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/generic/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javabasics/src/main/java/generic/Spartan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test - Copy (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test - Copy (3).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test - Copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="36bab1d9-7189-4c56-b5ef-2b114f227bb1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,17 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/temp/java project/javabasics/SpartaSimulation",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/temp/java project/javabasics/SpartaSimulation&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
